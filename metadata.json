@@ -1,0 +1,5 @@
+{
+  "name": "Duncheon",
+  "description": "Procedural dungeon and cave generator for game developers. Design infinite dungeons in seconds and export to JSON, PNG, or ZIP.",
+  "requestFramePermissions": []
+}
